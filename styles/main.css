@@ -14,13 +14,12 @@ h2 {
       line-height: 1em;
 }
 
-p{
+p {
       font-family: 'Quicksand', sans-serif;
       font-size: 1.5em;
       line-height: 1.6em;
       margin: 40px;
       padding-top: 2em;
-
 }
 
 
@@ -68,6 +67,7 @@ p{
       padding: 0 15px;
       flex: content;
 }
+
 
 
 /*
